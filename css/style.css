@@ -4,6 +4,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    font-family: 'Poppins';
+}
+
 .header__nav{
     height: 112px;
     display: flex;
@@ -36,4 +40,42 @@ ul,li,a{
 
 .header__link{
     margin-left: 42px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #323232;
+    transition: 0.2s linear;
+}
+.header__link:hover{
+    color: #F78434;
+    font-weight: 700;
+}
+
+.bekzod{
+    
+}
+
+
+
+
+.oybek{
+    
+}
+
+
+
+
+.qaxa{
+    
+    
+}
+
+
+.islom{
+    
+}
+
+
+
+.sam{
+    
 }
